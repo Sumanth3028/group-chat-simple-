@@ -1,0 +1,15 @@
+{
+  "name": "group-chat-app",
+  "version": "1.0.0",
+  "description": "creating group chat-app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "restart": "nodemon server.js"
+    
+
+  },
+  "author": "sumanth",
+  "license": "ISC"
+}
